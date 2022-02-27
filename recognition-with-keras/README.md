@@ -21,6 +21,6 @@ The hands on project on Facial Expression Recognition is divided into following 
 - Task 5: Train and Evaluate Model
 - Task 6: Save and Serialize Model as JSON String
 - Task 7: Create a Flask App to Serve Predictions
-- sk 8: Create a Class to Output Model Predictions
+- Task 8: Create a Class to Output Model Predictions
 - Task 9: Design an HTML Template for the Flask App
 - Task 10: Use Model to Recognize Facial Expressions in Videos
